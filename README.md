@@ -23,6 +23,6 @@ This website acts as a demonstration for styling different elements on any websi
 
 Javascript plays the key role in this project.
 
-Using the DOM manipulation principle, one can select cany color from the windows color palette and eventually set the color as the gradient color 1 as well as gradient color 2.
+Using the DOM manipulation principle, one can select any color from the windows color palette and eventually set the color as the gradient color 1 as well as gradient color 2.
 
 Both the colors together will given us a nice gradient look and feel (considering that the colors choosen will be good).
