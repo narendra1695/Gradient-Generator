@@ -17,7 +17,7 @@ In order to start using this project, one must have to do the following:
 
 We all have seen the awesome gradient styling patterns on various websites.
 
-This website acts as a demonstration for styling different elements on any website with gradients. Using this website once can actually see the desirable combination of two different colors on screen.
+This website acts as a demonstration for styling different elements on any website with gradients. Using this website one can actually see the desirable combination of two different colors on screen.
 
 ## Working
 
